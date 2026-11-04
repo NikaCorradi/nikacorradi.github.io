@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Veronika S. Corradi-Eiger",
+    "section": "",
+    "text": "I am a PhD researcher in sociology at the Faculty of Social Studies, Masaryk University in Brno.\nI study inequality in intergenerational support. My work asks three questions: which adult children receive support from their parents, whom that support protects after adverse events such as job loss, and what its absence costs. The common thread is that the same status does not bring the same support: being single after divorce differs from never having married, and living at home during study pays off differently depending on parental income.\nI work with large-scale panel and survey data (SHARE, SOEP) and use sequence analysis, generalized estimating equations, and decomposition methods.\nFrom October 2026 to January 2027, I am a visiting PhD researcher in the DYNAMICS group at Humboldt-Universität zu Berlin, hosted by Anette Eva Fasang."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Veronika S. Corradi-Eiger",
+    "section": "News",
+    "text": "News\nSession organizer, ISA World Congress 2027 · October 2026\nWith Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session Life Course Transitions, Intergenerational Transfers, and Social Stratification at the XXI ISA World Congress of Sociology in Gwangju (July 2027). The session runs in two parts: Family Origin, Housing, and the Transition to Adulthood and Intergenerational Transfers and Wealth.\nVisiting PhD researcher, HU Berlin · October 2026 – January 2027\nResearch stay in the DYNAMICS group at Humboldt-Universität zu Berlin.\nInvited talk, Sequence Analysis Association webinar · May 2026\nWork-in-progress talk on combining sequence analysis with difference-in-differences designs."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Veronika S. Corradi-Eiger",
+    "section": "Contact",
+    "text": "Contact\nDepartment of Sociology\nFaculty of Social Studies, Masaryk University\nJoštova 10, 602 00 Brno, Czech Republic\nTODO@fss.muni.cz"
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "Reading",
+    "section": "",
+    "text": "Papers I have read recently and found worth recommending, with a short note on why.\n\n\nBernardi, F. (2014). Compensatory Advantage as a Mechanism of Educational Inequality: A Regression Discontinuity Based on Month of Birth. Sociology of Education.\nFamilies with more resources do not only give their children a better start. They also step in when something goes wrong, so a bad event costs their children less. This mechanism underlies my question about whether wealthier parents respond more strongly to an adult child’s job loss.\nMood, C. (2010). Logistic Regression: Why We Cannot Do What We Think We Can Do, and What We Can Do About It. European Sociological Review.\nCoefficients from logistic models depend on unobserved heterogeneity, so they cannot be compared across models or groups in the usual way. The paper explains why the estimand has to match the question, and it shaped my choice of population-averaged models."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My dissertation examines unequal intergenerational support across European countries. Parental support is often treated as a general safety net. My papers test whether it works that way. They examine who gets access to support, how much protection it gives after adverse events, and how its absence deepens disadvantage."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\nVisible Transitions, Invisible States: Adult Children’s Legal Partnership Status and Parental Support in Europe\nUnder review\nUsing SHARE data on parent–child dyads in 16 European countries, I show that unpartnered adult children are not one group. Children who became single through divorce or widowhood receive more financial support from their parents. Never-married children do not. I explain the difference with visibility of need: a dated transition prompts parents to reassess a child’s situation, while a chronic state does not.\n\nA Higher Floor, Not a Stronger Response: Parental Wealth and Financial Support to Adult Children after Job Loss in Europe\nIn preparation\nDo wealthier parents respond more strongly when an adult child loses a job, or do their children simply receive support more often to begin with? I decompose the wealth gap in parental financial support into a baseline (floor) component and a response component, using SHARE parent–child panel data.\nLiving with Parents during Higher Education and Gaps by Parental Income at Labour-Market Entry\nIn preparation\nLiving at home during study is a form of parental support, but it does not pay off equally. Using SOEP data and causal decomposition, I examine how much of the gap in labour-market entry by parental income runs through living arrangements during higher education."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n\nTitle of talk. European Population Conference, Bologna, 2026.\nTitle of talk. ECSR Annual Conference, Dublin, 2026.\nTitle of talk. RC28 Summer Meeting, New York, 2026."
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Outside research, I photograph architecture: buildings, structure, and the lines cities are made of.\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year"
+  }
+]
