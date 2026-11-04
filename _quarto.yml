@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs   # GitHub Pages can serve directly from /docs
+
+website:
+  title: "Veronika S. Corradi-Eiger"
+  site-url: "https://USERNAME.github.io"   # TODO: replace with your GitHub Pages URL or own domain
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: reading.qmd
+        text: Reading
+      - href: photography.qmd
+        text: Photography
+    right:
+      - icon: envelope
+        href: "mailto:TODO@fss.muni.cz"        # TODO: university email
+        aria-label: Email
+      - text: "ORCID"
+        href: "https://orcid.org/TODO"          # TODO
+      - text: "Scholar"
+        href: "https://scholar.google.com/TODO" # TODO (delete until the profile exists)
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/TODO" # TODO
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Veronika S. Corradi-Eiger"
+    right: "Made with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    mainfont: "Source Serif 4, Georgia, serif"

@@ -1,0 +1,80 @@
+/* Calm, single-column academic layout */
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+main.content {
+  max-width: 720px;
+}
+
+h1.title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* News and paper entries: a little air between items */
+main.content p {
+  margin-bottom: 1.1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Photography: 3-column grid of square crops, full image in lightbox */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 1.5rem;
+}
+
+.photo-grid p,
+.photo-grid figure,
+.photo-grid .quarto-figure {
+  margin: 0 !important;
+}
+
+.photo-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+.photo-grid figcaption {
+  display: none; /* captions show in the lightbox */
+}
+
+@media (max-width: 600px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.navbar {
+  font-size: 0.95rem;
+}
+
+/* Accent colour: petrol. To change, replace #1f5f6b in the three rules below. */
+a, a:visited,
+.navbar .nav-link.active, .navbar-nav .nav-link.active,
+.navbar-brand, h1.title {
+  color: #1f5f6b !important;
+}
+.btn-outline-dark { color: #1f5f6b; border-color: #1f5f6b; }
+.btn-outline-dark:hover { background: #1f5f6b; color: #fff !important; }

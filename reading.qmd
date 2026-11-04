@@ -1,0 +1,22 @@
+---
+title: "Reading"
+---
+
+Papers I have read recently and found worth recommending, with a short note on why.
+
+<!--
+HOW TO ADD A PAPER (newest at the top):
+
+**Author, A. & Author, B. (Year).** [Title](https://doi.org/...). *Journal*.\
+One or two sentences: what the paper shows and why it matters (the mechanism, the design, or what it changed in how you think).
+
+Tip: keep the note to what the paper does, not a summary of the abstract. 10–20 well-chosen papers say more than 100.
+-->
+
+<!-- TODO: the two entries below are examples. Rewrite the notes in your own words or replace them. -->
+
+**Bernardi, F. (2014).** [Compensatory Advantage as a Mechanism of Educational Inequality: A Regression Discontinuity Based on Month of Birth](https://doi.org/10.1177/0038040714524258). *Sociology of Education*.\
+Families with more resources do not only give their children a better start. They also step in when something goes wrong, so a bad event costs their children less. This mechanism underlies my question about whether wealthier parents respond more strongly to an adult child's job loss.
+
+**Mood, C. (2010).** [Logistic Regression: Why We Cannot Do What We Think We Can Do, and What We Can Do About It](https://doi.org/10.1093/esr/jcp006). *European Sociological Review*.\
+Coefficients from logistic models depend on unobserved heterogeneity, so they cannot be compared across models or groups in the usual way. The paper explains why the estimand has to match the question, and it shaped my choice of population-averaged models.

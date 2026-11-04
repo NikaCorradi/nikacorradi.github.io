@@ -1,0 +1,41 @@
+---
+title: "Veronika S. Corradi-Eiger"
+pagetitle: "Veronika S. Corradi-Eiger"
+title-block-banner: false
+---
+
+I am a PhD researcher in sociology at the [Faculty of Social Studies, Masaryk University](https://www.fss.muni.cz/en) in Brno.
+
+I study inequality in intergenerational support. My work asks three questions: which adult children receive support from their parents, whom that support protects after adverse events such as job loss, and what its absence costs. The common thread is that the same status does not bring the same support: being single after divorce differs from never having married, and living at home during study pays off differently depending on parental income.
+
+I work with large-scale panel and survey data (SHARE, SOEP) and use sequence analysis, generalized estimating equations, and decomposition methods.
+
+From October 2026 to January 2027, I am a visiting PhD researcher in the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) group at Humboldt-Universität zu Berlin, hosted by Anette Eva Fasang.
+
+## News
+
+**Session organizer, ISA World Congress 2027** · *October 2026*\
+With Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session *Life Course Transitions, Intergenerational Transfers, and Social Stratification* at the XXI ISA World Congress of Sociology in Gwangju (July 2027). The session runs in two parts: *Family Origin, Housing, and the Transition to Adulthood* and *Intergenerational Transfers and Wealth*.
+
+**Visiting PhD researcher, HU Berlin** · *October 2026 – January 2027*\
+Research stay in the DYNAMICS group at Humboldt-Universität zu Berlin.
+
+**Invited talk, Sequence Analysis Association webinar** · *May 2026*\
+Work-in-progress talk on combining sequence analysis with difference-in-differences designs.
+
+<!-- TODO: add new items at the top as they happen, e.g.
+**Visiting researcher, INVEST, University of Turku** · *April – June 2027*
+(only once the budget is confirmed)
+-->
+
+## Contact
+
+Department of Sociology\
+Faculty of Social Studies, Masaryk University\
+Joštova 10, 602 00 Brno, Czech Republic
+
+[TODO@fss.muni.cz](mailto:TODO@fss.muni.cz)
+
+<!-- Optional photo: put photo.jpg in this folder and uncomment
+![](photo.jpg){width=180px fig-alt="Veronika S. Corradi-Eiger"}
+-->

@@ -1,0 +1,28 @@
+---
+title: "Photography"
+lightbox: true
+---
+
+Outside research, I photograph architecture: buildings, structure, and the lines cities are made of.
+
+<!--
+HOW TO ADD PHOTOS
+1. Put the files in the photos/ folder (JPG, long edge ~2000 px, so the page loads fast).
+2. Copy one line per photo below: file name + short caption (place, city, year).
+3. Clicking a photo opens it full screen (lightbox).
+Choose 9–15 of your best shots rather than everything; the grid has 3 columns.
+-->
+
+::: {.photo-grid}
+![Building, City, Year](photos/photo-01.jpg){group="arch"}
+
+![Building, City, Year](photos/photo-02.jpg){group="arch"}
+
+![Building, City, Year](photos/photo-03.jpg){group="arch"}
+
+![Building, City, Year](photos/photo-04.jpg){group="arch"}
+
+![Building, City, Year](photos/photo-05.jpg){group="arch"}
+
+![Building, City, Year](photos/photo-06.jpg){group="arch"}
+:::
