@@ -20,7 +20,7 @@ I hold a BA in Sociology with Economics and an MA in Sociology (Economics module
 [**Visiting PhD researcher at HU Berlin.** Until January 2027, I am in the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) group at Humboldt-Universität zu Berlin, hosted by Prof. Anette Eva Fasang.]{.news-text}
 
 [Summer 2026]{.news-date}
-[**Paper presented at 2026 conferences.** *[**Paper 1**]{#paper-1}\* was presented at ECSR 2026 (Dublin), EPC 2026 (Bologna), and the RC28 Summer Meeting (New York).]{.news-text}
+[**Paper presented at 2026 conferences.** *[Paper 1](research.qmd#paper-1) was presented at ECSR 2026 (Dublin), EPC 2026 (Bologna), and the RC28 Summer Meeting (New York).]{.news-text}
 :::
 
 ## Contact
