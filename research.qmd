@@ -2,26 +2,31 @@
 title: "Research"
 ---
 
-My dissertation examines unequal intergenerational support across European countries. Parental support is often treated as a general safety net. My papers test whether it works that way. They examine who gets access to support, how much protection it gives after adverse events, and how its absence deepens disadvantage.
-
 ## Working papers
 
-**Visible Transitions, Invisible States: Adult Children's Legal Partnership Status and Parental Support in Europe**\
+**Paper 1**\
 *Under review*\
-Using SHARE data on parent–child dyads in 16 European countries, I show that unpartnered adult children are not one group. Children who became single through divorce or widowhood receive more financial support from their parents. Never-married children do not. I explain the difference with *visibility of need*: a dated transition prompts parents to reassess a child's situation, while a chronic state does not.
+Unpartnered adult children are not one group. Children who became single through divorce or widowhood receive different support from their parents than children who never married.
+
+- **Data:** SHARE, parent–child dyads in 16 European countries
+- **Methods:** generalized estimating equations (population-averaged logistic models)
 
 <!-- When the preprint is out, add:  [Preprint](https://osf.io/preprints/socarxiv/TODO) -->
 
-**A Higher Floor, Not a Stronger Response: Parental Wealth and Financial Support to Adult Children after Job Loss in Europe**\
+**Paper 2.1**\
 *In preparation*\
-Do wealthier parents respond more strongly when an adult child loses a job, or do their children simply receive support more often to begin with? I decompose the wealth gap in parental financial support into a baseline (floor) component and a response component, using SHARE parent–child panel data.
+Do wealthier parents respond more strongly when an adult child loses a job?
 
-**Living with Parents during Higher Education and Gaps by Parental Income at Labour-Market Entry**\
+- **Data:** SHARE, parent–child panel across European countries
+- **Methods:** decomposition of the wealth gap in parental support
+
+**Paper 2.2**\
 *In preparation*\
-Living at home during study is a form of parental support, but it does not pay off equally. Using SOEP data and causal decomposition, I examine how much of the gap in labour-market entry by parental income runs through living arrangements during higher education.
+How much has to go wrong in an adult child's life before parents step in with financial support?
 
-<!-- TODO: add the joint sequence-analysis paper (P2.2) once the title and co-authors are settled -->
+- **Data:** German panel data
+- **Methods:** sequence analysis
 
 ## Conference presentations
 
-**2026** · *Visible Transitions, Invisible States*: ECSR Annual Conference (Dublin), European Population Conference (Bologna), RC28 Summer Meeting (New York)
+**2026** · ECSR Annual Conference (Dublin), European Population Conference (Bologna), RC28 Summer Meeting (New York)
