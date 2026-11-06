@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working papers
 
-**Paper 1**\
+**[**Paper 1**]{#paper-1}\**\
 *Under review*\
 Unpartnered adult children are not one group. Children who became single through divorce or widowhood receive different support from their parents than children who never married.
 
