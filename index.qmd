@@ -4,7 +4,7 @@ pagetitle: "Veronika S. Corradi-Eiger"
 title-block-banner: false
 ---
 
-I am a PhD candidate in sociology at the [FSS](https://www.fss.muni.cz/en). My doctoral research is part of the [PRINS] (https://www.prins-opjak.cz/en) project.
+I am a PhD candidate in sociology at the [FSS/MUNI](https://soc.fss.muni.cz/en). My doctoral research is part of the [PRINS](https://www.prins-opjak.cz/en) project.
 
 My research connects social stratification, the family, and state context. 
 
