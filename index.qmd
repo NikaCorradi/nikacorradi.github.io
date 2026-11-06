@@ -4,20 +4,11 @@ pagetitle: "Veronika S. Corradi-Eiger"
 title-block-banner: false
 ---
 
-:::: {.home-intro}
-::: {.home-bio}
 I am a PhD candidate in sociology at the [Faculty of Social Studies, Masaryk University](https://www.fss.muni.cz/en) in Brno. My doctoral research is part of the PRINS project on the individualisation of society.
 
 My research connects social inequality, the family, and local context. My dissertation examines who gets support from their parents in adulthood, and who does not.
 
 I hold a BA in Sociology with Economics and an MA in Sociology (Economics module). During my undergraduate studies, I spent exchange stays at the University of Derby, the University of Edinburgh, and the University of Zurich.
-:::
-
-::: {.home-photo}
-<!-- Put photo.jpg in this folder; the placeholder below disappears automatically -->
-![](photo.jpg){fig-alt="Veronika S. Corradi-Eiger"}
-:::
-::::
 
 ## News
 
