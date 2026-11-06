@@ -78,3 +78,83 @@ a, a:visited,
 }
 .btn-outline-dark { color: #1f5f6b; border-color: #1f5f6b; }
 .btn-outline-dark:hover { background: #1f5f6b; color: #fff !important; }
+
+/* ---------- Left-aligned layout (like agrawe.eu) ---------- */
+#quarto-content main.content {
+  max-width: 820px;
+  margin-left: max(2rem, calc((100vw - 1200px) / 2));
+  margin-right: auto;
+}
+.navbar .navbar-container,
+.navbar > .container-fluid {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ---------- Home: bio + photo side by side ---------- */
+.home-intro {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+.home-bio { flex: 1 1 auto; }
+.home-photo { flex: 0 0 200px; }
+.home-photo img {
+  width: 200px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 4px;
+  background: #e9ecef;   /* shows as grey box until photo.jpg exists */
+}
+.home-photo p, .home-photo figure { margin: 0; }
+@media (max-width: 700px) {
+  .home-intro { flex-direction: column-reverse; }
+}
+
+/* ---------- News: date column + text ---------- */
+.news {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  column-gap: 1.2rem;
+  row-gap: 0.9rem;
+}
+.news p { display: contents; }
+.news-date {
+  color: #1f5f6b;
+  font-weight: 600;
+  font-size: 0.92rem;
+  padding-top: 0.12rem;
+  white-space: nowrap;
+}
+.news-text { display: block; }
+@media (max-width: 600px) {
+  .news { grid-template-columns: 1fr; row-gap: 0.2rem; }
+  .news-text { margin-bottom: 0.8rem; }
+}
+
+/* Navbar: dark grey links, petrol only for the active page */
+.navbar .nav-link, .navbar .nav-link:visited { color: #495057 !important; }
+.navbar .nav-link.active, .navbar .nav-link:hover { color: #1f5f6b !important; }
+.navbar-brand, .navbar-brand:visited { color: #212529 !important; }
+
+/* Places: separated from the academic tabs by a thin line */
+.navbar .nav-link[href$="photography.html"] {
+  margin-left: 0.6rem;
+  padding-left: 1.1rem !important;
+  border-left: 1px solid #ced4da;
+}
+
+/* Profile icons */
+.navbar .ai, .navbar .bi { font-size: 1.15rem; }
+
+/* ---------- Dark mode ---------- */
+body.quarto-dark a, body.quarto-dark a:visited,
+body.quarto-dark h1.title,
+body.quarto-dark .news-date { color: #7cc4cf !important; }
+body.quarto-dark .navbar .nav-link,
+body.quarto-dark .navbar-brand { color: #dee2e6 !important; }
+body.quarto-dark .navbar .nav-link.active,
+body.quarto-dark .navbar .nav-link:hover { color: #7cc4cf !important; }
+body.quarto-dark h2 { border-bottom-color: #495057; }
+body.quarto-dark .navbar .nav-link[href$="photography.html"] { border-left-color: #495057; }
+body.quarto-dark .navbar { background-color: #1b1e21 !important; border-bottom: 1px solid #343a40; }

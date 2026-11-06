@@ -1,30 +1,29 @@
 project:
   type: website
+  resources:
+    - assets/
   output-dir: docs   # GitHub Pages can serve directly from /docs
 
 website:
+  search: false
   title: "Veronika S. Corradi-Eiger"
-  site-url: "https://USERNAME.github.io"   # TODO: replace with your GitHub Pages URL or own domain
+  site-url: "https://nikacorradi.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
-      - href: reading.qmd
-        text: Reading
+      - href: teaching.qmd
+        text: Teaching
       - href: photography.qmd
-        text: Photography
+        text: Places
     right:
-      - icon: envelope
-        href: "mailto:TODO@fss.muni.cz"        # TODO: university email
-        aria-label: Email
-      - text: "ORCID"
-        href: "https://orcid.org/TODO"          # TODO
-      - text: "Scholar"
-        href: "https://scholar.google.com/TODO" # TODO (delete until the profile exists)
+      - text: '<i class="ai ai-orcid"></i>'
+        href: "https://orcid.org/0009-0009-1218-7961"
+        aria-label: ORCID
       - icon: linkedin
-        href: "https://www.linkedin.com/in/TODO" # TODO
+        href: "https://www.linkedin.com/in/nikacorradi/"
         aria-label: LinkedIn
   page-footer:
     left: "© 2026 Veronika S. Corradi-Eiger"
@@ -32,7 +31,12 @@ website:
 
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme:
+      light: litera
+      dark: darkly
+    css:
+      - assets/academicons/css/academicons.min.css
+      - styles.css
     toc: false
+    page-layout: full
     mainfont: "Source Serif 4, Georgia, serif"

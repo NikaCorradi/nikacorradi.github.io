@@ -4,28 +4,49 @@
     "href": "index.html",
     "title": "Veronika S. Corradi-Eiger",
     "section": "",
-    "text": "I am a PhD researcher in sociology at the Faculty of Social Studies, Masaryk University in Brno.\nI study inequality in intergenerational support. My work asks three questions: which adult children receive support from their parents, whom that support protects after adverse events such as job loss, and what its absence costs. The common thread is that the same status does not bring the same support: being single after divorce differs from never having married, and living at home during study pays off differently depending on parental income.\nI work with large-scale panel and survey data (SHARE, SOEP) and use sequence analysis, generalized estimating equations, and decomposition methods.\nFrom October 2026 to January 2027, I am a visiting PhD researcher in the DYNAMICS group at Humboldt-Universität zu Berlin, hosted by Anette Eva Fasang."
+    "text": "I am a PhD candidate in sociology at the Faculty of Social Studies, Masaryk University in Brno. My doctoral research is part of the PRINS project on the individualisation of society.\nMy research connects social inequality, the family, and local context. My dissertation examines who gets support from their parents in adulthood, and who does not.\nI hold a BA in Sociology with Economics and an MA in Sociology (Economics module). During my undergraduate studies, I spent exchange stays at the University of Derby, the University of Edinburgh, and the University of Zurich."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Veronika S. Corradi-Eiger",
     "section": "News",
-    "text": "News\nSession organizer, ISA World Congress 2027 · October 2026\nWith Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session Life Course Transitions, Intergenerational Transfers, and Social Stratification at the XXI ISA World Congress of Sociology in Gwangju (July 2027). The session runs in two parts: Family Origin, Housing, and the Transition to Adulthood and Intergenerational Transfers and Wealth.\nVisiting PhD researcher, HU Berlin · October 2026 – January 2027\nResearch stay in the DYNAMICS group at Humboldt-Universität zu Berlin.\nInvited talk, Sequence Analysis Association webinar · May 2026\nWork-in-progress talk on combining sequence analysis with difference-in-differences designs."
+    "text": "News\n\n\nOct 2026 Session organizer, ISA World Congress 2027. With Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session Life Course Transitions, Intergenerational Transfers, and Social Stratification in Gwangju (July 2027), in two parts: Family Origin, Housing, and the Transition to Adulthood and Intergenerational Transfers and Wealth.\nOct 2026 Visiting PhD researcher at HU Berlin. Until January 2027, I am in the DYNAMICS group at Humboldt-Universität zu Berlin, hosted by Anette Eva Fasang.\nSummer 2026 Paper presented at three conferences. Visible Transitions, Invisible States was presented at ECSR 2026 (Dublin), EPC 2026 (Bologna), and the RC28 Summer Meeting (New York)."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Veronika S. Corradi-Eiger",
     "section": "Contact",
-    "text": "Contact\nDepartment of Sociology\nFaculty of Social Studies, Masaryk University\nJoštova 10, 602 00 Brno, Czech Republic\nTODO@fss.muni.cz"
+    "text": "Contact\nDepartment of Sociology, Faculty of Social Studies, Masaryk University\nJoštova 10, 602 00 Brno, Czech Republic"
   },
   {
-    "objectID": "reading.html",
-    "href": "reading.html",
-    "title": "Reading",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Papers I have read recently and found worth recommending, with a short note on why.\n\n\nBernardi, F. (2014). Compensatory Advantage as a Mechanism of Educational Inequality: A Regression Discontinuity Based on Month of Birth. Sociology of Education.\nFamilies with more resources do not only give their children a better start. They also step in when something goes wrong, so a bad event costs their children less. This mechanism underlies my question about whether wealthier parents respond more strongly to an adult child’s job loss.\nMood, C. (2010). Logistic Regression: Why We Cannot Do What We Think We Can Do, and What We Can Do About It. European Sociological Review.\nCoefficients from logistic models depend on unobserved heterogeneity, so they cannot be compared across models or groups in the usual way. The paper explains why the estimand has to match the question, and it shaped my choice of population-averaged models."
+    "text": "Inequalities in 21st Century Societies\nMasaryk University, Brno · Spring 2026, Spring 2027\nTwo sessions in an interdisciplinary course (approx. 200 students)"
+  },
+  {
+    "objectID": "teaching.html#lecturer",
+    "href": "teaching.html#lecturer",
+    "title": "Teaching",
+    "section": "",
+    "text": "Inequalities in 21st Century Societies\nMasaryk University, Brno · Spring 2026, Spring 2027\nTwo sessions in an interdisciplinary course (approx. 200 students)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-seminar-tutor",
+    "href": "teaching.html#teaching-assistant-seminar-tutor",
+    "title": "Teaching",
+    "section": "Teaching assistant / seminar tutor",
+    "text": "Teaching assistant / seminar tutor\nIntroduction to Sociology\nMasaryk University, Brno · Autumn 2025, Autumn 2026\nMethods of Sociological Research\nMasaryk University, Brno · Autumn 2025\nCurrent Themes in Sociology (seminar tutor)\nMasaryk University, Brno · Autumn 2025"
+  },
+  {
+    "objectID": "teaching.html#thesis-supervision",
+    "href": "teaching.html#thesis-supervision",
+    "title": "Teaching",
+    "section": "Thesis supervision",
+    "text": "Thesis supervision\nSecond reader, Bachelor’s thesis Parental Assessment of School System Performance in the Context of Class Stratification\nMasaryk University, Brno · defended June 2026"
   },
   {
     "objectID": "research.html",
@@ -46,13 +67,13 @@
     "href": "research.html#conference-presentations",
     "title": "Research",
     "section": "Conference presentations",
-    "text": "Conference presentations\n\n\nTitle of talk. European Population Conference, Bologna, 2026.\nTitle of talk. ECSR Annual Conference, Dublin, 2026.\nTitle of talk. RC28 Summer Meeting, New York, 2026."
+    "text": "Conference presentations\n2026 · Visible Transitions, Invisible States: ECSR Annual Conference (Dublin), European Population Conference (Bologna), RC28 Summer Meeting (New York)"
   },
   {
     "objectID": "photography.html",
     "href": "photography.html",
-    "title": "Photography",
+    "title": "Places",
     "section": "",
-    "text": "Outside research, I photograph architecture: buildings, structure, and the lines cities are made of.\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year"
+    "text": "Buildings and cities I have photographed while travelling, often for conferences and research stays.\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year\n\n\n\n\n\nBuilding, City, Year"
   }
 ]

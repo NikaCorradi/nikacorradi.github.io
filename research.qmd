@@ -24,8 +24,4 @@ Living at home during study is a form of parental support, but it does not pay o
 
 ## Conference presentations
 
-<!-- TODO: fill in from your CV – only conferences where you presented; format below -->
-
-- *Title of talk.* European Population Conference, Bologna, 2026.
-- *Title of talk.* ECSR Annual Conference, Dublin, 2026.
-- *Title of talk.* RC28 Summer Meeting, New York, 2026.
+**2026** · *Visible Transitions, Invisible States*: ECSR Annual Conference (Dublin), European Population Conference (Bologna), RC28 Summer Meeting (New York)

@@ -1,9 +1,9 @@
 ---
-title: "Photography"
+title: "Places"
 lightbox: true
 ---
 
-Outside research, I photograph architecture: buildings, structure, and the lines cities are made of.
+Buildings and cities I have photographed while travelling, often for conferences and research stays.
 
 <!--
 HOW TO ADD PHOTOS
