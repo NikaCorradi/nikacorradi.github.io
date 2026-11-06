@@ -4,9 +4,7 @@ pagetitle: "Veronika S. Corradi-Eiger"
 title-block-banner: false
 ---
 
-I am a PhD candidate in sociology at the [FSS/MUNI](https://soc.fss.muni.cz/en). My doctoral research is part of the [PRINS](https://www.prins-opjak.cz/en) project.
-
-My research connects social stratification, the family, and state context. 
+I am a PhD candidate in Sociology at the [FSS/MUNI](https://soc.fss.muni.cz/en). My doctoral research is part of the [PRINS](https://www.prins-opjak.cz/en) project and connects Social Stratification, the Family, and State Context.
 
 I hold a BA in Sociology with Economics and an MA in Sociology (Economics module). During my undergraduate studies, I spent exchange stays at the University of Derby, the University of Edinburgh, and the University of Zürich.
 
@@ -16,7 +14,7 @@ I hold a BA in Sociology with Economics and an MA in Sociology (Economics module
 
 ::: {.news}
 [Oct 2026]{.news-date}
-[**Session organizer, ISA World Congress 2027.** With Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session [Life Course Transitions, Intergenerational Transfers, and Social Stratification](https://isaconf.confex.com/isaconf/wc2027/webprogrampreliminary/Session23529.html)* in Gwangju (July 2027).]{.news-text}
+[**Session organizer, ISA World Congress 2027.** With Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session [Life Course Transitions, Intergenerational Transfers, and Social Stratification](https://isaconf.confex.com/isaconf/wc2027/webprogrampreliminary/Session23529.html) in Gwangju (July 2027).]{.news-text}
 
 [Oct 2026]{.news-date}
 [**Visiting PhD researcher at HU Berlin.** Until January 2027, I am in the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) group at Humboldt-Universität zu Berlin, hosted by Prof. Anette Eva Fasang.]{.news-text}
