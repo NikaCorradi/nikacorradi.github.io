@@ -4,11 +4,11 @@ pagetitle: "Veronika S. Corradi-Eiger"
 title-block-banner: false
 ---
 
-I am a PhD candidate in sociology at the [Faculty of Social Studies, Masaryk University](https://www.fss.muni.cz/en) in Brno. My doctoral research is part of the PRINS project on the individualisation of society.
+I am a PhD candidate in sociology at the [FSS](https://www.fss.muni.cz/en). My doctoral research is part of the [PRINS] (https://www.prins-opjak.cz/en) project.
 
-My research connects social inequality, the family, and local context. My dissertation examines who gets support from their parents in adulthood, and who does not.
+My research connects social stratification, the family, and state context. 
 
-I hold a BA in Sociology with Economics and an MA in Sociology (Economics module). During my undergraduate studies, I spent exchange stays at the University of Derby, the University of Edinburgh, and the University of Zurich.
+I hold a BA in Sociology with Economics and an MA in Sociology (Economics module). During my undergraduate studies, I spent exchange stays at the University of Derby, the University of Edinburgh, and the University of Zürich.
 
 ## News
 
@@ -16,13 +16,13 @@ I hold a BA in Sociology with Economics and an MA in Sociology (Economics module
 
 ::: {.news}
 [Oct 2026]{.news-date}
-[**Session organizer, ISA World Congress 2027.** With Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session *Life Course Transitions, Intergenerational Transfers, and Social Stratification* in Gwangju (July 2027), in two parts: *Family Origin, Housing, and the Transition to Adulthood* and *Intergenerational Transfers and Wealth*.]{.news-text}
+[**Session organizer, ISA World Congress 2027.** With Carlos Costa Ribeiro (IESP-UERJ), I co-organize the RC28 session *Life Course Transitions, Intergenerational Transfers, and Social Stratification* in Gwangju (July 2027).]{.news-text}
 
 [Oct 2026]{.news-date}
-[**Visiting PhD researcher at HU Berlin.** Until January 2027, I am in the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) group at Humboldt-Universität zu Berlin, hosted by Anette Eva Fasang.]{.news-text}
+[**Visiting PhD researcher at HU Berlin.** Until January 2027, I am in the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) group at Humboldt-Universität zu Berlin, hosted by Prof. Anette Eva Fasang.]{.news-text}
 
 [Summer 2026]{.news-date}
-[**Paper presented at three conferences.** *Visible Transitions, Invisible States* was presented at ECSR 2026 (Dublin), EPC 2026 (Bologna), and the RC28 Summer Meeting (New York).]{.news-text}
+[**Paper presented at 2026 conferences.** *Paper 1* was presented at ECSR 2026 (Dublin), EPC 2026 (Bologna), and the RC28 Summer Meeting (New York).]{.news-text}
 :::
 
 ## Contact
