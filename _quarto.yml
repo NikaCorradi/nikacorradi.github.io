@@ -32,8 +32,8 @@ website:
 format:
   html:
     theme:
-      light: litera
       dark: darkly
+      light: litera
     css:
       - assets/academicons/css/academicons.min.css
       - styles.css
