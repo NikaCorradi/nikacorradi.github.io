@@ -15,17 +15,17 @@ Unpartnered adult children are not one group. Children who became single through
 
 **Paper 2.1**\
 *In preparation*\
-Do wealthier parents respond more strongly when an adult child loses a job?
+Adult children of wealthier parents receive financial support more often. Does this gap open when a child loses a job, or is it already there before?
 
-- **Data:** SHARE, parent–child panel across European countries
-- **Methods:** decomposition of the wealth gap in parental support
+- **Data:** SHARE, parent–child panel in 26 European countries
+- **Methods:** decomposition of the wealth gap into a baseline and a response component
 
 **Paper 2.2**\
 *In preparation*\
-How much has to go wrong in an adult child's life before parents step in with financial support?
+Where does inequality in parental support arise: between families, or within them, in how parents divide support among siblings?
 
-- **Data:** German panel data
-- **Methods:** sequence analysis
+- **Data:** SHARE, adult siblings within the same families
+- **Methods:** variance decomposition and sibling comparison (family fixed effects)
 
 ## Conference presentations
 
